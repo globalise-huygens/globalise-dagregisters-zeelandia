@@ -1,0 +1,176 @@
+1090, 1092-1093, 1095, 1097-1098, 1102,
+1104: C 633-634, 655, 676-679, 681,
+686-690, 692, 694-695, 697, 700- 702,
+705, 710, 712-714, 716-717, 722-725;
+E 363, 366, 394, 401-402, 406, 411, 418,
+421, 423, 425, 427, 430, 445, 447, 453,
+460, 475-477, 490, 493, 497, 500-501,
+503, 505, 508-510, 515, 521-522, 526;
+F 566, 568, 575, 592, 604, 606-610,
+621-623, 625, 628, 630, 633, 638-640,
+642, 651, 659-661, 668, 675, 678, 681,
+686, 688, 698, 704, 708-709, 713-714,
+723, 725-726, 731, 734, 739-740, 744,
+747, 152, 754, 758, 762-763, 772, 774,
+776
+
+Vis, grote: E 430, 475-476
+
+Vis, verse: A 382; C 686-687; E 406, 409
+
+Visnet: A 339; E 420
+
+Vispasser: D 306, 309
+
+VisserfVissen: A 304, 315; B 1017,
+1019-1022; C 682-685, 690, 693,
+705-706; E 396, 401, 406, 408, 414,
+420-421
+
+Visserij (in binnenwater): B 1019-1022;
+C 686; E 401, 406, 409
+
+Visserij (in zee): B 1020; C 685; E 406, 408
+
+Vlees: A 315, 365; B 1013, 1019; C 685;
+E 406, 408, 487, 495, 524; F 605, 641,
+727, 738
+
+Vleeshal: E 510
+
+Vloot (Nederlandse): A 364
+
+Vlot: E 453-454
+
+Vogelnestjes: B 1062
+
+Vogels: E 454-455, 484
+
+Vogelvellen: B 1054
+
+Vrede: B 1055; D 303, 305, 307, 318, 328;
+E 403, 480, 513
+
+Vrede (Formosaanse dorpen): B 992-993,
+998, 1010, 1012; C 637, 688, 721; E 372,
+379, 384, 387-388, 393, 404
+
+Vrede (met Spanje): A 336
+
+VrijburgerVrije LuidenVrijkoopman:
+A 301; E 396, 403, 417, 419, 422, 424,
+429, 446, 492-493, 505
+
+Vrouwentuchthuis: D 322
+
+Vuurpotten: B 1064
+
+Ww
+
+WaagStadswaag: E 405-406, 408, 413, 436,
+510
+
+Waagmeester: E 406, 413
+
+Waagpachter: E 413
+
+Wachthuis: A 334-335, 377-378; C 683
+
+Wambas, houten: E 435
+
+Was: A 345, 351-352, 356, 362, 366-367,
+369-370, 380; B 1054, 1058-1059,
+1062-1063, 1071, 1080, 1102; C 701- 702,
+711, 713-715, 717, 723; E 421; F 635-636,
+
+654
+
+650, 682
+
+WatermeloenenWaterlimoenen: A 357,
+372-373; B 1048, 1072, 1087-1088, 1091;
+C 703, 711, 718, 724-726; D 305; F 642
+
+Wayang: D 337
+
+Wees: E 437
+
+Weeskamer: D 278, 335; E 447
+
+Weesmeester: E 437, 445
+
+Weesmeesters, College van: E 445
+
+Wegen en Bruggen: D 278-279, 316; E 504
+
+Wegwijzers: B 975; C 650
+
+Westindische Compagnie: F 647
+
+Wierook: A 375; B 1086
+
+Wijn: E 441, 508; F 768, 773
+
+Wijn, Franse: D 339
+
+Wijn, Rijnsche: D 339
+
+Wijn, Spaanse: B 1057
+
+Wildschut, zie: Jachtopziener
+
+Wortelen: E 484; F 572
+
+Wortel China, zie: Radix China
+
+Wrak, zie: Scheepswrak
+
+vA
+
+Zandelhout, zie: Sandelhout
+Zandgoud: E 528; F 603
+Zeekat: C 677, 724, 726; F 572, 659
+ZeekroosZeewier: B 1072; C 723
+Zeerover: E 363, 398-399; F 639
+Zeewier, zie: Zeekroos
+Zieken, zie: Ziekten
+Ziekenhuis: A 377; C 699, 721; D 323;
+
+E 436, 452; F 603, 612, 769
+Ziekentrooster (zie ook: Krankbezoeker):
+
+A 287; B 979; E 379, 448; F 732
+ZiektefZieke: A 341, 343, 355, 376; B 977,
+1025, 1036- 1037, 1065, 1095; C 648,
+650-651, 662, 658, 665, 679, 688, 693,
+
+699, 721; D 273, 275, 279-280, 285, 312,
+314- 315, 330; E 360, 362, 365, 370-373,
+375-376, 378, 382, 386-391, 393, 404,
+410, 421, 430, 443-444, 448, 451, 471,
+480, 484, 486-487, 505, 528-529; F 769
+
+Ziekte, Tamsuyse, zie: Koorts, Tamsuyse
+
+Zijde: A 347, 352; B 1042, 1049, 1056,
+1065, 1098, 1104, 1106; C 634; D 278;
+E 442, 483; F 647
+
+Zijde, Bengaalse: E 523; F 720, 766
+
+Zijde, rauwe: B 1060, 1084; E 443
+
+Zijde, witte: B 1010-1011, 1014, 1032, 1047,
+1059-1060, 1084, 1092; C 690, 693-694;
+E 443
+
+Zijdehandel: E 458
+
+Zilver: A 311, 316, 337, 340, 344-345, 357,
+362, 367; B 1017, 1065, 1067, 1069, 1071,
+1105, 1107; C 634, 683- 684, 691; E 428,
+444, 499, 523-524; F 679, 718
+
+Zilver, Japans: E 434, 523
+
+Zilverpenning: F 588
