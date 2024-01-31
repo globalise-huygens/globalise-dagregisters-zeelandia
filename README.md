@@ -55,12 +55,13 @@ for prefix in $prefixes; do
 done
 ```
 
-### Notes on use
+## Notes on use
 * contains sections in modern and early modern Dutch
 * the sections in early modern Dutch are in the chapters starting with a capital A, B, C, etc (see first line of each page)
 * contains footnotes
 
-### License
+## License
+
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
